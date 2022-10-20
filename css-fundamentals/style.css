@@ -27,7 +27,13 @@ a {
   font-size: small;
 }
 
-p .featured-property {
+.img {
+  margin-bottom: 100;
+}
+
+/* had trouble trying to add vertical space around p */
+#featured-property p {
   max-width: 800px;
   text-align: center;
+  margin:auto
 }
