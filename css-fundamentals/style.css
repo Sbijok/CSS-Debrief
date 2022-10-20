@@ -23,6 +23,11 @@ a {
   background-color: gray;
 }
 
-#img figcaption {
+.img figcaption {
   font-size: small;
+}
+
+p .featured-property {
+  max-width: 800px;
+  text-align: center;
 }
